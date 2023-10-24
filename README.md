@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://nodejs.org" target="_blank">
-    <img src="URL_DA_IMAGEM_DO_LOGOTIPO_DO_NODE.JS" width="400" alt="Node.js Logo">
+  <a  target="_blank">
+    <img src="URL_DA_IMAGEM_DO_LOGOTIPO_DO_NODE.JS" width="400" alt="Node.js">
   </a>
 </p>
 
