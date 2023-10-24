@@ -1,8 +1,4 @@
-<p align="center">
-  <a  target="_blank">
-    nodejs
-  </a>
-</p>
+[Documentação oficial do Node.js](https://nodejs.org/en/docs/)
 
 # Projeto backend
 
